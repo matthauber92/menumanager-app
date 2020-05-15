@@ -1,0 +1,20 @@
+Burger@@Entree@@ Well done with lettuce and tomatoes@@522@@15.00
+Chicken@@Entree@@ Grilled chicken topped with barbeque sauce@@213@@13.00
+Spaghetti and Meatballs@@Entree@@ Angel pasta with marinara sauce@@320@@14.00
+Burrito@@Entree@@ Chicken burrito with medium sauce, guacomole, and lettuce@@1200@@11.50
+Steak@@Entree@@ A well done steak with a side of A1 sauce@@1100@@28.00
+Cajun Fries@@Side@@ Seasoned salted flavored fries@@800@@8.29
+Texas Cheese Fries@@Side@@ Melted cheese and jalapenos create a spicy flavor@@1000@@9.89
+Clam Chowder@@Side@@ Just your typical creamy chowder@@310@@7.00
+Tomato Soup@@Side@@ Basil creamy tomato soup@@340@@5.50
+Mozzarella Sticks@@Side@@ Fried sticks infused with mozarella cheese@@500@@6.39
+Caesar Salad@@Salad@@ Drenched in Caesar dressing and croutons@@450@@12.00
+Grilled Chicken Salad@@Salad@@ Got the meats with the green@@650@@15.50
+Steak Salad@@Salad@@ Sliced steak topped on the leaf@@700@@18.00
+Garden Salad@@Salad@@ Sliced carrots, green and yellow peppers, and mushrooms@@457@@9.00
+Greek Salad@@Salad@@ Pieces of tomatoes, sliced cucumbers, onion, feta cheese, and olives@@557@@11.75
+Cherry Pie@@Dessert@@ Sweet and topped with whip cream@@530@@10.00
+Peach Cobbler@@Dessert@@ Many crumbs drenched in peaches@@435@@9.25
+Red Velvet Cake@@Dessert@@ Red velvet topped with icing@@544@@13.50
+Whoopie Pies@@Dessert@@ A cookie with whipped cream in the middle@@650@@5.00
+Lemon Drizzle Cake@@Dessert@@ Cake drenched with a hint of lemon@@531@@15.00
